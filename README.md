@@ -62,4 +62,4 @@ http://localhost:5000
 - Métricas: `/api/metrics`
 
 ## 🔗Enlaces útiles
-Frontend: https://github.com/EdannyDev/saas-app
+Frontend: https://github.com/EdannyDev/frontend-saas
